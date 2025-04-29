@@ -19,11 +19,7 @@
   </div>
 
   ### I'm a Junior Programmer looking for new projects
-
-  ### Hi there. i'm Felipe Falcirolli. 👋
-
-  I work with HTML, CSS, JavaScript, and Python, creating responsive and dynamic websites. I'm passionate about design and always aim to combine aesthetics and functionality in my projects. I'm looking for new challenges and opportunities to grow in the field.
-
+  I'm work im html, css, JavaScript, and I want to get into other languages, I also have experience working as a staff in organizations with more than 345,000 members and more than 135,000 simultaneous employees.. my dream is to Work im a big enterprise of programim company
  
   
 
