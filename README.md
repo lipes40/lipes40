@@ -18,6 +18,8 @@
   </a>
   </div>
 
+  ### I'm a Junior Programmer looking for new projects
+
   ### Hi there. i'm Felipe Falcirolli. 👋
 
   I work with HTML, CSS, JavaScript, and Python, creating responsive and dynamic websites. I'm passionate about design and always aim to combine aesthetics and functionality in my projects. I'm looking for new challenges and opportunities to grow in the field.
