@@ -1,5 +1,6 @@
 <div align="left"> <!-- trocar para "center" quando as curiosidades estiverem ativadas -->
   <a href="https://github.com/lipes40">
+    https://readme-typing-svg.demolab.com/demo/?size=40&color=B81414&width=436&lines=Hi%2C+I'm+Fellipe+Teixeira
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=lipes40&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipes40&layout=compact&langs_count=7&theme=dracula"/>
 </div>
