@@ -1,4 +1,4 @@
-<div align="left"> <!-- trocar para "center" quando as curiosidades estiverem ativadas -->
+<div align="center"> <!-- trocar para "center" quando as curiosidades estiverem ativadas -->
   <a href="https://github.com/lipes40">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=B81414&width=436&lines=Hi%2C+I'm+Fellipe+Teixeira" alt="Name" />
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=lipes40&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
