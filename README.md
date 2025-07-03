@@ -9,7 +9,9 @@
   <img align="center" alt="m-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="m-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="m-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    
+  <img align="center" alt="m-Js" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" alt="m-Js" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="m-Js" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
   
   ##
@@ -20,9 +22,8 @@
   </a>
   </div>
 
-  ### I'm a Junior Programmer looking for new projects
-  I'm work im html, css, JavaScript, and I want to get into other languages, I also have experience working as a staff in organizations with more than 345,000 members and more than 135,000 simultaneous employees.. my dream is to Work im a big enterprise of programim company
- 
+  ### I'm Fellipe Teixeira
+Hello! I'm Fellipe Teixeira, I'm 15 years old and I'm a young programmer with a passion for HTML, CSS, JavaScript, PHP, MySQL and Python, with a special focus on back-end. I love learning new things and giving my own personal touch to each piece of knowledge I acquire. I learn quickly and have flexible hours to dedicate myself to projects. I believe that good communication with the team is essential, and I'm always open to meetings and calls. My main goal is to facilitate and optimize the systems experience, using logic and internal structure so that everything works perfectly, like "newly assembled engines that start and run without problems". 
   
 
   
